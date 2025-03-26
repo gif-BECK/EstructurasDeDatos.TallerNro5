@@ -45,10 +45,5 @@ public class Test {
         
         System.out.println("Promedio: "); 
         e2.Promedio(promedio);
-        
-        
-        
-        
-        
     }
 }
